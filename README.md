@@ -4,7 +4,7 @@
 
 ### Afinal, como acontece a mágica da internet? Como eu, você e todos nós acessamos?
 
-<p aligin = "center">
+<p align = "center">
 <img src ="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/duvida.jpg" widht = "50%">
 </p>
 
@@ -16,7 +16,7 @@ A internet é uma rede mundial (global) de computadores trocando mensagens, dado
 Para essa rede funcionar existe uma regra de troca de dados.
 
 
-<p aligin = "center">
+<p align = "center">
 <img src = "https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/mundo.jpg" widht = "50%" >
 </p>
 
@@ -44,7 +44,7 @@ No Brasil existe o CGI.br – Comitê Gestor da Internet no Brasil – é uma es
 
 
 
-<p aligin = "center">
+<p align = "center">
 <img src ="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/detona.jpg" widht = "50%">
 </p>
 
