@@ -50,5 +50,6 @@ E é assim que funciona a Internet.
 </p>
 
 <br>
-Existe tbm a internet das coisas, mas é assunto para outro post.
+Existe tbm a internet das coisas, mas é assunto para outro post.  🎁 :gift:   😏 :smirk:	
+
 
