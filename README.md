@@ -4,7 +4,9 @@
 
 ### Afinal, como acontece a mágica da internet? Como eu, você e todos nós acessamos?
 
-<img src = https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/duvida.jpg>
+<p aligin = "center">
+<img src ="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/duvida.jpg" widht = "50%">
+</p>
 
 
 Quando num ambiente residencial ou corporativo os computadores estão ligados uns aos 
@@ -14,7 +16,9 @@ A internet é uma rede mundial (global) de computadores trocando mensagens, dado
 Para essa rede funcionar existe uma regra de troca de dados.
 
 
-![mundo](/img/mundo.jpg)
+<p aligin = "center">
+<img src = "https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/mundo.jpg" widht = "50%" >
+</p>
 
 <br>
 
