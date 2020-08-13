@@ -1,8 +1,8 @@
-# Como funciona a Internet?
+# **Como funciona a Internet?**
 <br>
 
 
-### Afinal, como acontece a mágica da internet? Como eu, você e todos nós acessamos?
+### *Afinal, como acontece a mágica da internet? Como eu, você e todos nós acessamos?*
 
 <p align= "center">
 <img src="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/duvida.jpg" widht= "40%">
