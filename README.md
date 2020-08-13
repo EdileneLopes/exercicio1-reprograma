@@ -44,8 +44,9 @@ No Brasil existe o CGI.br – Comitê Gestor da Internet no Brasil – é uma es
 
 
 
-![detona](/img/detona.jpg)
-
+<p aligin = "center">
+<img src ="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/detona.jpg" widht = "50%">
+</p>
 
 <br>
 Existe tbm a internet das coisas, mas é assunto para outro post.
