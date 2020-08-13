@@ -4,8 +4,8 @@
 
 ### Afinal, como acontece a mágica da internet? Como eu, você e todos nós acessamos?
 
-<p align = "center">
-<img src ="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/duvida.jpg" widht = "50%">
+<p align= "center">
+<img src="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/duvida.jpg" widht= "40%">
 </p>
 
 
@@ -16,8 +16,8 @@ A internet é uma rede mundial (global) de computadores trocando mensagens, dado
 Para essa rede funcionar existe uma regra de troca de dados.
 
 
-<p align = "center">
-<img src = "https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/mundo.jpg" widht = "50%" >
+<p align= "center">
+<img src= "https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/mundo.jpg" widht= "50%" >
 </p>
 
 <br>
@@ -42,10 +42,11 @@ Por exemplo, os nomes: Google, Gmail , Facebook etc, precisam ser traduzidos par
 A internet é descentralizada, ou seja, não há um único poder sobre ela, e sim a colaboração entre empresas, governos, organizações e indivíduos fazem tudo funcionar.
 No Brasil existe o CGI.br – Comitê Gestor da Internet no Brasil – é uma estrutura multissetorial para coordenar e regular as diretrizes sobre o funcionamento da internet.
 
+E é assim que funciona a Internet.
 
 
-<p align = "center">
-<img src ="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/detona.jpg" widht = "50%">
+<p align= "center">
+<img src="https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/detona.jpg" widht= "50%">
 </p>
 
 <br>
