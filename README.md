@@ -4,7 +4,7 @@
 
 ### Afinal, como acontece a mágica da internet? Como eu, você e todos nós acessamos?
 
-![duvida](/https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/duvida.jpg)
+<img src = https://github.com/EdileneLopes/exercicio1-reprograma/blob/master/IMG/duvida.jpg>
 
 
 Quando num ambiente residencial ou corporativo os computadores estão ligados uns aos 
